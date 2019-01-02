@@ -20,7 +20,7 @@ const Header = (props) => {
         </li>}
         {!props.authenticated && <li className="pull-right">
           <FacebookLogin
-            appId="875935382564043"
+            appId="283468548968368"
             autoLoad={false}
             fields="name, friends, picture"
             scope="public_profile,user_friends"
