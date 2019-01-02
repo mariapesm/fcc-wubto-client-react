@@ -48,7 +48,7 @@ class HomePage extends Component {
         {!this.props.authenticated && (
           <section>
             <FacebookLogin
-              appId="875935382564043"
+              appId="283468548968368"
               autoLoad={false}
               fields="name, friends, picture"
               scope="public_profile,user_friends"
