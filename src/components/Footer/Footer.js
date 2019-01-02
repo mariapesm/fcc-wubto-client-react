@@ -18,6 +18,7 @@ class Footer extends Component {
         </section>
         <h5>Powered by Yelp and Facebook</h5>
       <p>Developed by Maria Pestematzogloy. @copyright in 2019</p>
+      <p><a href="https://termsfeed.com/privacy-policy/18a11f2276684cd5453bd18a9a37b098">Privacy Policy</a></p>
       </footer>
     );
   }
