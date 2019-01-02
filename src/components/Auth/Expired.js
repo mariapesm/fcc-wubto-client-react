@@ -27,7 +27,7 @@ class Expired extends Component {
         <h2>Your session expired.</h2>
         <div>
           <FacebookLogin
-            appId="283468548968368"
+            appId="2148026548597744"
             autoLoad={false}
             fields="name, friends, picture"
             scope="public_profile,user_friends"
