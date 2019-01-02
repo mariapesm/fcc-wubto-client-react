@@ -30,11 +30,11 @@ class HomePage extends Component {
       <section className="home-page">
         <ScrollToTopOnMount/>
         <Helmet
-          title="Wubto"
+          title="DailyNight"
           titleTemplate="%s | Choose a new hangout. Let your friends know you'll be there."
         />
         <header>
-          <h1>Wubto</h1>
+          <h1>DailyNight</h1>
           <h2>Choose a new hangout.<br/> Let your friends know you'll be there.</h2>
         </header>
         <section className="location">
