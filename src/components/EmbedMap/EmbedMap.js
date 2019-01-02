@@ -27,7 +27,7 @@ class EmbedMap extends Component {
       6000)
     });
   }
-
+ 
   render() {
     const { place } = this.props;
 
