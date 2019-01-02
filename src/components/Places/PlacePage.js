@@ -36,7 +36,7 @@ class PlacePage extends Component {
       <section className="place-page">
         <ScrollToTopOnMount/>
         <Helmet
-          title="Wubto"
+          title="DailyNight"
           titleTemplate="%s | Choose a new hangout. Let your friends know you'll be there."
         />
         {place.isLoading && <section className="loading">
