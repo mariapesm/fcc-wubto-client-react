@@ -6,7 +6,7 @@ const AboutPage = () => {
     <section className="about-page">
       <div className="container">
         <h1>About Page</h1>
-        <p className="jumbotron">This page is a pure functional component in React</p>
+        <p className="jumbotron">Welcome there a little info about this page:This a simple react project about search places, locations, bars.</p>
       </div>
     </section>
   );
