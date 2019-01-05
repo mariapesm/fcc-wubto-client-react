@@ -35,7 +35,7 @@ class Login extends Component {
         <h2>You must be logged in to confirm any locations or see your friends.</h2>
         <div>
           <FacebookLogin
-            appId="514159872439799"
+            appId="1099856153519121"
             autoLoad={false}
             fields="name, friends, picture"
             scope="public_profile,user_friends"
