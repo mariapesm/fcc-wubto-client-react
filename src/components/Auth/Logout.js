@@ -33,7 +33,7 @@ class Logout extends Component {
         <h2>You are now logged out.</h2>
         <div>
           <FacebookLogin
-            appId="514159872439799"
+            appId="1099856153519121"
             autoLoad={false}
             fields="name, friends, picture"
             scope="public_profile,user_friends"
