@@ -17,7 +17,7 @@ import toastr from 'toastr';
 import { logoutUser } from './auth.actions';
 
 const API_URL = process.env.NODE_ENV === 'production'
-  ? 'https://fcc-wubto-rest-api.herokuapp.com'
+  ? 'https://nightappsearch.herokuapp.com/'
   : 'http://localhost:8050';
 
 function setCurrentLocation(location) {
