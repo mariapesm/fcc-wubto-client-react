@@ -20,7 +20,7 @@ const store = configureStore();
 const history = syncHistoryWithStore(browserHistory, store);
 
 const API_URL = process.env.NODE_ENV === 'production'
-  ? 'https://nightappsearch.herokuapp.com/'
+  ? 'https://nightappsearch.herokuapp.com'
   : 'http://localhost:8050';
 
 /*
